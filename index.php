@@ -1,4 +1,5 @@
 <?php
 echo "Olá Mundo texto local para bugar";
-echo "bora bugaaaaar";
- ?>
+echo "bora corrigir";
+
+?>
